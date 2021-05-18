@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Naruto</string>
+    <!--Time Konoha///////////////////////////////////////////////////////////////////////-->
+    <string name="konoha">Ninjas de Konoha</string>
+    <string name="Time_07">Time 7</string>
+    <string name="Kakashi">Hatake Kakashi</string>
+    <string name="Naruto">Uzumaki Naruto</string>
+    <string name="Sasuke">Uchiha Sasuke</string>
+    <string name="Sakura">Haruno Sakura</string>
+    <string name="Time_08">Time 8</string>
+    <string name="Kurenai">Yūhi Kurenai</string>
+    <string name="Hinata">Hyuuga Hinata</string>
+    <string name="Kiba">Inuzuka Kiba</string>
+    <string name="Shino">Aburame Shino</string>
+    <string name="Time_09">Time 9</string>
+    <string name="Gai">Maito Gai</string>
+    <string name="Lee">Rock Lee</string>
+    <string name="Neji">Hyuuga Neji</string>
+    <string name="Tenten">Mitsashi Tenten</string>
+    <string name="TIme_10">Time 10</string>
+    <string name="Asuma">Sarutobi Asuma</string>
+    <string name="Shikamaru">Nara Shikamaru</string>
+    <string name="Ino">Yamanaka Ino</string>
+    <string name="Choji">Akimichi Chōji</string>
+    <!--Time Akatsuki/////////////////////////////////////////////////////////////////////-->
+    <string name="Akatsuki">Akatsuki</string>
+    <string name="Nagato">Pain</string>
+    <string name="Konan">Konan</string>
+    <string name="Tobi">Tobi</string>
+    <string name="Zetsu">Zetsu</string>
+    <string name="Itachi">Uchiha Itachi</string>
+    <string name="Kisame">Hoshigaki Kisame</string>
+    <string name="Deidara">Deidara</string>
+    <string name="Sasori">Sasori</string>
+    <string name="Hidan">Hidan</string>
+    <string name="Kakuzu">Kakuzu</string>
+</resources>
